@@ -1,1 +1,8 @@
-# NewRepo
+- Initial commit: Set up project structure and main files.
+- Added voice greeting functionality with WAV playback.
+- Implemented ASCII art logo in seperate class.
+- Added greeting and user interaction functionality.
+- Created ChatBot class with basic cybersecurity responses.
+- Implemented input validation for empty or unsupported queries.
+- Enhanced console UI with colors, borders, and typing effect.
+- Integrated GitHub Actions workflow for CI build testing.
